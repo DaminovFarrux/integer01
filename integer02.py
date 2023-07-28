@@ -1,3 +1,3 @@
 M=int(input())
-p=M//100
+p=M//1000
 print(p)
